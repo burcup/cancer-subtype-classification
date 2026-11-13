@@ -1,0 +1,12 @@
+name: subtype
+channels:
+  - defaults
+dependencies:
+  - jupyterlab
+  - seaborn
+  - numpy
+  - python=3.11
+  - scikit-learn
+  - matplotlib
+  - pandas
+prefix: C:\miniconda\envs\subtype
